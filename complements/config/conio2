@@ -1,0 +1,3 @@
+add_to_autocomp_indexes=conio2 (windows)
+set_default_template=conio2-w32.tpl
+set_cpp_template=conio2-w32.tpl
