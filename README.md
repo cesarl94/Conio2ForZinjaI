@@ -17,7 +17,7 @@ Download the .zip file from "Releases" section and unzip it into the ZinjaI inst
 (The contents of that zip are the same as the contents of this repository, excluding the information from this README.md file)
 
 The ZinjaI folder should look like this:
-!["ZinjaI Folder"](ReadmeImages/ZinjaIFolder.png)
+!["ZinjaI Folder"](ReadmeImages/ZinjaiFolder.png)
 
 To use the library, simply create a new project and choose the Conio2 template, or just add ``#include <conio2.h>`` at the beginning of your C++ project header.
 
